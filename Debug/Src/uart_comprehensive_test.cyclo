@@ -1,0 +1,12 @@
+../Inc/core_cm4.h:1724:22:__NVIC_DisableIRQ	2
+../Src/uart_comprehensive_test.c:22:6:FlushInputBuffer	2
+../Src/uart_comprehensive_test.c:36:6:USART3_IRQHandler	7
+../Src/uart_comprehensive_test.c:59:6:UART_ComprehensiveDiagnostics	1
+../Src/uart_comprehensive_test.c:100:6:Test_BasicFunctions	5
+../Src/uart_comprehensive_test.c:132:6:Test_AdvancedFunctions	6
+../Src/uart_comprehensive_test.c:187:6:Test_ErrorHandling	3
+../Src/uart_comprehensive_test.c:229:6:Test_InterruptFunctions	1
+../Src/uart_comprehensive_test.c:273:6:Test_ConfigurationFunction	14
+../Src/uart_comprehensive_test.c:376:6:ShowTestMenu	1
+../Src/uart_comprehensive_test.c:391:6:RunPerformanceTest	7
+../Src/uart_comprehensive_test.c:439:5:test_main	12

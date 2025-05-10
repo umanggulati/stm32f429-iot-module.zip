@@ -1,0 +1,7 @@
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/systick.o"
+"./Src/uart.o"
+"./Src/uart_comprehensive_test.o"
+"./Startup/startup_stm32f429zitx.o"

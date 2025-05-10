@@ -1,0 +1,13 @@
+../Inc/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/uart.c:13:6:UART_Init	3
+../Src/uart.c:61:6:UART_SendString	4
+../Src/uart.c:75:12:UART_InitConfig	12
+../Src/uart.c:161:12:UART_Transmit	9
+../Src/uart.c:197:12:UART_Receive	12
+../Src/uart.c:239:6:UART_IsDataAvailable	1
+../Src/uart.c:243:12:UART_SendByte	4
+../Src/uart.c:267:9:UART_ReceiveByte	3
+../Src/uart.c:277:12:UART_ClearErrors	2
+../Src/uart.c:288:6:UART_EnableInterrupts	5
+../Src/uart.c:312:6:UART_DisableInterrupts	5
+../Src/uart.c:333:12:UART_UpdateBaudRate	4
